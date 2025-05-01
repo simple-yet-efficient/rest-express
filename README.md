@@ -24,7 +24,7 @@ For detailed installation instructions, visit our [Getting Started Guide](https:
 ## Quick Start
 
 ### 1. Import Your Collection
-![API Importer](Documentation~/images/api_importer_3.png)
+![API Importer](https://github.com/simple-yet-efficient/rest-express/blob/main/images/api_importer_3.png?raw=true)
 - Open REST Express (SyE → REST Express)
 - Click "Import Collection"
 - Select your Postman collection file
@@ -36,7 +36,7 @@ For detailed installation instructions, visit our [Getting Started Guide](https:
 - View formatted responses instantly
 
 ### 3. Generate Code
-![Script Generator](Documentation~/images/script_generator.png)
+![Script Generator](https://github.com/simple-yet-efficient/rest-express/blob/main/images/script_generator.png?raw=true)
 - Open Script Generator (SyE → Script Generator)
 - Choose async or coroutine style
 - Click "Generate" to create your API client
@@ -76,4 +76,4 @@ Created by [Simple Yet Efficient](https://assetstore.unity.com/publishers/23076)
 
 ---
 
-Made with ❤️ for Unity developers 
+Made with ❤️ for Unity developers
