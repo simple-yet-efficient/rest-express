@@ -19,7 +19,7 @@ Before you begin, ensure you have:
 
 ## Installation
 
-1. Download REST Express from the [Unity Asset Store](https://assetstore.unity.com/packages/slug/rest-express)
+1. Download REST Express from the [Unity Asset Store](https://assetstore.unity.com/packages/slug/319060)
 2. Import the package into your Unity project via:
    - Assets → Import Package → Custom Package...
    - Select the downloaded .unitypackage file

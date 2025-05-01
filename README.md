@@ -68,7 +68,7 @@ Need help? We've got you covered:
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/simple-yet-efficient/rest-express/blob/main/LICENSE) file for details.
 
 ## Credits
 

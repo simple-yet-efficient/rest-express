@@ -9,7 +9,7 @@
 **A:** REST Express supports Unity 2020.3 LTS and later versions. It's regularly tested with the latest LTS releases.
 
 ### Q: Is it free to use?
-**A:** REST Express is available on the Unity Asset Store. Check our [store page](https://assetstore.unity.com/packages/slug/rest-express) for pricing details.
+**A:** REST Express is available on the Unity Asset Store. Check our [store page](https://assetstore.unity.com/packages/slug/319060) for pricing details.
 
 ## Features
 
