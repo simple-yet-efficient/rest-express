@@ -1,4 +1,6 @@
-# REST Express for Unity
+  ![REST Express Cover](https://github.com/simple-yet-efficient/rest-express/blob/main/images/cover.png?raw=true)
+  
+  # REST Express for Unity
 
 Transform Postman collections into Unity-ready API clients instantly. Test API calls in-editor and generate production-ready C# code in minutes.
 
