@@ -19,7 +19,9 @@ Transform Postman collections into Unity-ready API clients instantly. Test API c
 
 1. Download REST Express from the [Unity Asset Store](https://assetstore.unity.com/packages/slug/319060)
 2. Import the package into your Unity project
-3. Access tools via the "SyE" menu in Unity Editor
+3. Access tools via Unity Editor menus:
+   - Main Windows: `Window → REST Express → `
+   - Tools: `Tools → REST Express → `
 
 For detailed installation instructions, visit our [Getting Started Guide](https://github.com/simple-yet-efficient/rest-express/wiki/Getting-Started).
 
@@ -27,8 +29,8 @@ For detailed installation instructions, visit our [Getting Started Guide](https:
 
 ### 1. Import Your Collection
 ![API Importer](https://github.com/simple-yet-efficient/rest-express/blob/main/images/api_importer_3.png?raw=true)
-- Open REST Express (SyE → REST Express)
-- Click "Import Collection"
+- Open REST Express (Window → REST Express → API Importer)
+- Click "Import Collection" or use `Tools → REST Express → Import Collection`
 - Select your Postman collection file
 
 ### 2. Test Your APIs
@@ -39,7 +41,7 @@ For detailed installation instructions, visit our [Getting Started Guide](https:
 
 ### 3. Generate Code
 ![Script Generator](https://github.com/simple-yet-efficient/rest-express/blob/main/images/script_generator.png?raw=true)
-- Open Script Generator (SyE → Script Generator)
+- Open Script Generator (Window/REST Express/Script Generator)
 - Choose async or coroutine style
 - Click "Generate" to create your API client
 
@@ -67,6 +69,10 @@ Need help? We've got you covered:
 - Open an [issue](https://github.com/simple-yet-efficient/rest-express/issues)
 - Contact [support](mailto:aqaddora96@gmail.com)
 
+### Troubleshooting Tips
+- Enable detailed logging via `Tools → REST Express → Enable Logging` for debugging
+- Disable logging via `Tools → REST Express → Disable Logging` for cleaner console
+- Check our [Troubleshooting Guide](https://github.com/simple-yet-efficient/rest-express/wiki/Troubleshooting) for common solutions
 
 ## License
 

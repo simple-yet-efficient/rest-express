@@ -8,33 +8,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [1.0.0] - 2024-03-19
 
 ### Added
-- Initial release of REST Express for Unity
-- API Client Manager window with collection management
-  - Import Postman collections from JSON files
-  - Tree view for collection organization
-  - Request editing and testing
-  - Support for headers, query parameters, and request bodies
-  - File upload support
-  - Variable substitution
-  - Real-time request testing
-- Script Generator window
-  - Generate C# API clients from collections
-  - Support for Async and Coroutine methods
-  - Customizable script names and types
-  - Type inference and generation
-  - Template customization
-- Modern and intuitive UI
-  - Responsive layout
-  - Dark theme support
-  - Clear visual hierarchy
-  - Context menus for common actions
-- Comprehensive documentation
-  - Installation guide
-  - Usage instructions
-  - API reference
-  - Code generation guide
-  - Best practices
-  - Troubleshooting guide
+- Initial release of REST Express
+- Postman collection import functionality
+- API client code generation
+- Support for both async and coroutine methods
+- Basic authentication handling
+- File upload support
+- Error handling system
+- Documentation
+
+### Known Issues
+- WebGL builds may require additional CORS configuration
+- Some complex Postman collection features may not be fully supported 
 
 ### Technical Details
 - Minimum Unity version: 2020.3 LTS
@@ -43,4 +28,3 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Support for Postman Collection v2.1 format
 - Automatic variable substitution
 - Form data and multipart request support
-- Custom authentication handlers 
